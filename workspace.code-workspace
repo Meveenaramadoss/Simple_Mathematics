@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap tehtävä",
+			"path": "..\\..\\..\\OneDrive - Espoon seudun koulutuskuntayhtymä Omnia\\Desktop\\oulu ammatti jakso 2\\webtekniikat2\\bootstrap tehtävä"
+		},
+		{
+			"path": "..\\..\\..\\OneDrive - Oulun ammattikorkeakoulu\\Web tekniikat 2022\\uusi sass\\sass-master\\sass-master"
+		},
+		{
+			"path": "..\\..\\..\\OneDrive - Espoon seudun koulutuskuntayhtymä Omnia\\Desktop\\oulu ammatti jakso 2\\Ambi\\mathsclass"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Matikka ja bootstrap projekti"
+	}
+}
