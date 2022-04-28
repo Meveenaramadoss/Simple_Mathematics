@@ -68,34 +68,13 @@ p {
     border-width: 10 em;
 }
 
-
-  /*
-    background: red;
-  display: flex;
-  justify-content: center;
-  align-items:center;
-  z-index: 2;
-  position: relative;
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
-
-.image {
-  background-image: url('https://placekitten.com/200/200?image=1');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 500px;
-  width: 1500px;
-  position: absolute;
-  z-index: -1;
-}
-
-.content {
-  background: #fff;
-  height: 500px;
-  width: 800px;
-}
-Share
-Improve this answer
-Follow
-*/
-  
+.center { 
+  text-align-last: center; 
+  border: 2px solid black; 
+} 
